@@ -3,9 +3,6 @@ package PraktikumPemlan;
 import java.time.LocalDate;
 import java.time.Period;
 
-//Ahmad Dzaikra Javier
-//255150301111025
-//TI-A
 public class Pekerja extends Manusia{
     private double gaji;
     private LocalDate tahunMasuk;
