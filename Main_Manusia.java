@@ -2,7 +2,6 @@ package PraktikumPemlan;
 
 import java.time.LocalDate;
 
-
 public class Main_Manusia {
     public static void main(String[] args) {
         Manusia m1 = new Manusia("Javi", true, "255150201", true);
